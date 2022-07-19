@@ -1,0 +1,44 @@
+body{
+    background-color: beige;
+}
+a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+   
+}
+a:hover{
+    text-decoration: underline;
+  
+}
+.container{
+    
+    margin: auto;
+    width: 800px;
+}
+.container h1{
+    text-align: center;
+}
+.avatar{
+width: 300px;
+border-radius: 20px;
+}
+.card{
+    padding: 15px 20px;
+}
+.info{
+    display: flex;
+    margin-bottom: 20px;
+
+}
+.container h3{
+    text-align: center;
+}
+.container h2{
+    text-align: center;
+}
+table{
+    width: 100%;
+}
+.info-text{
+    margin-left: 40px;
+}
